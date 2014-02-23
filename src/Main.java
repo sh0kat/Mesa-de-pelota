@@ -69,7 +69,7 @@ this.setBounds(new Rectangle(312, 184, 250, 250)); // Position on the desktop
 this.setMinimumSize(new Dimension(250, 250));
 this.setMaximumSize(new Dimension(250, 250));
 this.setContentPane(getJContentPane());
-this.setTitle("Pong");
+this.setTitle("Mesa-de-Pelota");
 }
 
 /**
