@@ -8,5 +8,9 @@
  * @author Shokat
  */
 public class NewClass {
+<<<<<<< HEAD
     int a;
+=======
+    int b;
+>>>>>>> b
 }
