@@ -1,12 +1,8 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /**
  *
  * @author Shokat
  */
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
