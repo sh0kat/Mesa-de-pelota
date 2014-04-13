@@ -2,7 +2,7 @@
 
 An _old fashioned **Java**_ based game that nobody wants to *play*. `;)`
 
-###Old fashioned, then why a Git repo?
+###Old school, then why a Git repo?
 
 Well, I am new to the *Git World*. The sole purpose of this repository is to learn *git philosophy* and what it can do for me.
 
