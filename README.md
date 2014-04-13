@@ -1,6 +1,6 @@
 ##Mesa de pelota
 
-An _old fashioned **Java**_ based game that nobody wants to *play*. `;)`
+An _old school **Java**_ based game. `;)`
 
 ###Old school, then why a Git repo?
 
@@ -14,7 +14,7 @@ It takes some effort to learn the ways and whys of *git*. `:D`
 
 *Fork* at your own known risk. *(Risk of wasting your time)* `:p`
 
-If you seriously wanna *fork this repo*, you could do one thing : 
+If you still wanna *fork this repo*, you could do one thing : 
 
 	There is a bug with the game. When it starts, both the scores are set to 1.
 	I didn't try to fix it but if you can fix it, I really will appreciate.  
