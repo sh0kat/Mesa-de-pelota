@@ -8,9 +8,9 @@ Well, I am new to the *Git World*. The sole purpose of this repository is to lea
 
 ###What I concluded?
 
-It takes some effort to learn the ways and whys of *git*. `:D`
+I concluded that it takes some effort to learn the ways and whys of *git*. `:D`
 
-###Wanna *fork* this repo? *(I'm sure you won't)*
+###Wanna *fork* this repo? *(I'm sure you don't)*
 
 *Fork* at your own known risk. *(Risk of wasting your time)* `:p`
 
