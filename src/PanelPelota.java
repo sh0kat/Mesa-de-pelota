@@ -43,8 +43,8 @@ gc.fillRect(jug1X, jug1Y, 10, 25);
 gc.fillRect(jug2X, jug2Y, 10, 25);
 
 //Draw scores
-gc.drawString("Jugador1: "+contPlay1, 25, 15);
-gc.drawString("Jugador2: "+contPlay2, 150,15);
+gc.drawString("Ramesh: "+contPlay1, 25, 15);
+gc.drawString("Suresh: "+contPlay2, 150,15);
 
 if(gameOver)
 gc.drawString("Game Over", 100, 125);
